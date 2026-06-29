@@ -1,5 +1,3 @@
-<script src="/scripts/author.js" author="antero" date="29 июня 2026"></script>
-
 # XDebug
 
 XDebug — расширение PHP, упрощающее отладку кода. Позволяет задавать брейкпоинты, останавливая исполнение кода, просматривать текущие значения переменных окружения, определённых в коде переменных и стандартных переменных PHP.
@@ -78,3 +76,5 @@ https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
 ## Управление процессом исполнения кода
 
 Здесь про Step Over, Into, Out
+
+<script src="/scripts/author.js" author="antero" date="29 июня 2026"></script>
