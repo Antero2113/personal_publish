@@ -38,7 +38,7 @@ xdebug.log=/var/log/xdebug.log
 https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
 ```
 
-Или перейти в VS Code → Extensions, ввести в поиске «PHP Debug».
+Или перейти в ```VS Code → Extensions```, ввести в поиске «PHP Debug».
 
 ### Настройка в проекте
 
